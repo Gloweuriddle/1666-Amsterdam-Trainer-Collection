@@ -1,5 +1,15 @@
 # 🕯️ 1666: Amsterdam — Ultimate Offline Trainer & Mod Collection
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=24&duration=2400&pause=600&color=8B0000&center=true&vCenter=true&multiline=true&width=950&height=140&lines=EVERY+333+YEARS+%E2%80%A6+SOMETHING+STIRS;THE+DEMONS+HIDE+BEHIND+HUMAN+FACES;INVESTIGATE+BY+DAY+%E2%80%A2+FACE+THEM+BY+NIGHT" alt="1666 Amsterdam Horror Typing Animation" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Demonic Entity Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=1400&pause=300&color=8B0000&center=true&vCenter=true&width=900&lines=%5B+AMSTERDAM+1666+%5D+%E2%80%94+THE+COLLECTOR+AWAKENS;%5B+THE+COLLECTOR+%5D+%E2%80%94+WITCHCRAFT+ENGAGED;%5B+%E2%98%A0+%5D+%E2%80%94+DEMONIC+PRESENCE+DETECTED" alt="1666 Horror Status Bar" />
+</p>
 <p align="center">
   <b>Uncover the Demons | Wield the Witchcraft | Face the Night</b>
 </p>
